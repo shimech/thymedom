@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "[kotlin]": {
+    "editor.defaultFormatter": "cstef.kotlin-formatter"
+  }
+}
