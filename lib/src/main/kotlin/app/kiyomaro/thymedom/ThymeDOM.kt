@@ -2,6 +2,6 @@ package app.kiyomaro.thymedom
 
 class ThymeDOM {
     companion object {
-        fun createElement() {}
+        fun createElement(type: String) = ThymeDOMElement(type)
     }
 }
