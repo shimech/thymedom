@@ -1,6 +1,6 @@
 package app.kiyomaro.thymedom
 
-import app.kiyomaro.thymedom.error.IllegalChildTypeException
+import app.kiyomaro.thymedom.exception.IllegalChildTypeException
 import org.thymeleaf.model.IModel
 import org.thymeleaf.model.IModelFactory
 import org.unbescape.html.HtmlEscape
